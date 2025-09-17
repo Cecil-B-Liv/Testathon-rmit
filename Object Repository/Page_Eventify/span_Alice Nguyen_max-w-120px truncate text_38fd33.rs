@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Alice Nguyen_max-w-120px truncate text_38fd33</name>
+   <tag></tag>
+   <elementGuidId>131fe7e8-274a-4de8-b847-6249f7ee6375</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='radix-«r5»']/div/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;alice.nguyen@gmail.com&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e9e84820-69bd-42ec-a810-50cd7144d489</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>max-w-[120px] truncate text-[10px] text-gray-500 sm:max-w-[180px] sm:text-xs</value>
+      <webElementGuid>9f8196a6-02b4-43df-a2b9-e0400b964905</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>alice.nguyen@gmail.com</value>
+      <webElementGuid>33b65e09-adc2-4cd5-a00e-227f943a7645</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;radix-«r5»&quot;)/div[@class=&quot;flex items-center space-x-2 p-2&quot;]/div[@class=&quot;flex flex-col&quot;]/span[@class=&quot;max-w-[120px] truncate text-[10px] text-gray-500 sm:max-w-[180px] sm:text-xs&quot;]</value>
+      <webElementGuid>5d6c97b4-66e9-4477-81eb-e97d3cfdaf34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-«r5»']/div/div/span[2]</value>
+      <webElementGuid>1237058c-bbf3-4f06-a19a-5311aa39ca60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alice Nguyen'])[1]/following::span[1]</value>
+      <webElementGuid>36dd410f-63dd-4009-bdeb-af3e0008f53d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AN'])[2]/following::span[2]</value>
+      <webElementGuid>a9560f5e-a566-42e2-a6a0-0402ddec8d32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/preceding::span[1]</value>
+      <webElementGuid>29831451-0572-4c2f-886f-3bead83548d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/preceding::span[1]</value>
+      <webElementGuid>d137ab0a-5bc3-43d5-898d-7a45066d06a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='alice.nguyen@gmail.com']/parent::*</value>
+      <webElementGuid>a91a18ef-91fe-4075-9cad-9d7db8c64d25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span[2]</value>
+      <webElementGuid>a59bab0f-0650-45aa-8772-7a1903105478</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'alice.nguyen@gmail.com' or . = 'alice.nguyen@gmail.com')]</value>
+      <webElementGuid>3e421e93-6316-4e92-b1e8-21d0577bd705</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
