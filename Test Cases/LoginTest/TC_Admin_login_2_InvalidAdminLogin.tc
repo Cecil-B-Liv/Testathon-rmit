@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Admin_login_2_InvalidAdminLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>15cb8ea5-f271-4410-acd1-2231725428b8</testCaseGuid>
+</TestCaseEntity>

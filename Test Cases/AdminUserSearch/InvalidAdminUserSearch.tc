@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>InvalidAdminUserSearch</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>3451d815-e9d1-4fbc-87ee-3c4d32eb0eb8</testCaseGuid>
-</TestCaseEntity>

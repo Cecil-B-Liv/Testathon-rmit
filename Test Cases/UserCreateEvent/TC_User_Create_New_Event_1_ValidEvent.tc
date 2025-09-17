@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_User_Create_New_Event_1_ValidEvent</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>404e2567-1ff0-4af0-b3e3-bc8331dbd788</testCaseGuid>
+</TestCaseEntity>

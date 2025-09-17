@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_User_Update_Event_2_DeleteEvent</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>90ce3259-d1d6-49bd-a3ec-034520639b1f</testCaseGuid>
+</TestCaseEntity>

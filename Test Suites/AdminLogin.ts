@@ -15,14 +15,14 @@
       <guid>ebea9cf2-34d5-42d5-a3bf-a2c2f0116059</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/LoginTest/InvalidAdminLogin</testCaseId>
+      <testCaseId>Test Cases/LoginTest/TC_Admin_login_2_InvalidAdminLogin</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>54963c57-74f7-4de4-b787-70dc561a1fac</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/LoginTest/ValidAdminLogin</testCaseId>
+      <testCaseId>Test Cases/LoginTest/TC_Admin_login_1_ValidAdminLogin</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

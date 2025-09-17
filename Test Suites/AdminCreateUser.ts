@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>AdminSearchUser</name>
+   <name>AdminCreateUser</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,19 +10,19 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>f7cec89e-984c-4877-94b3-c4576c46be20</testSuiteGuid>
+   <testSuiteGuid>77031669-370a-46cf-80dc-28106f990a24</testSuiteGuid>
    <testCaseLink>
-      <guid>45094459-8ead-4b2d-901e-ad34599fee9d</guid>
+      <guid>13b016cc-db1b-40de-9bf2-5850a5252f58</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/AdminUserSearch/TC_Admin_User_Search_1_InvalidAdminUserSearch</testCaseId>
+      <testCaseId>Test Cases/AdminCreateUser/TC_Admin_Create_New_User_1_ValidUserCreate</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>68d6b57e-4354-44a7-b24e-4a73c836cea1</guid>
+      <guid>f4252048-3658-42ff-93c8-320368c9e4e5</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/AdminUserSearch/TC_Admin_User_Search_2_ValidAdminUserSearch</testCaseId>
+      <testCaseId>Test Cases/AdminCreateUser/TC_Admin_Create_New_User_2_InvalidUserCreate</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

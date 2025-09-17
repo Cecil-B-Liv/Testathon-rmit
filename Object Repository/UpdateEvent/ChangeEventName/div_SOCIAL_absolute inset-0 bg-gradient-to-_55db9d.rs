@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SOCIAL_absolute inset-0 bg-gradient-to-_55db9d</name>
+   <tag></tag>
+   <elementGuidId>00f1ab1f-9d1e-4818-88e4-bbdddd49f078</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content']/main/div/div/div[3]/div[5]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^SOCIALOrganizer$/ >> div >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d1461b5c-318f-4239-a0fd-bc5fd4d0efc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>absolute inset-0 bg-gradient-to-t from-black/60 to-transparent</value>
+      <webElementGuid>2f100798-55d6-4fdf-ae55-63e83cc3c657</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/main[@class=&quot;h-[calc(100vh-4rem)] overflow-y-auto bg-gray-50 pb-20&quot;]/div[@class=&quot;min-h-screen overflow-x-hidden bg-gray-50 py-8&quot;]/div[@class=&quot;container mx-auto max-w-full px-4&quot;]/div[@class=&quot;grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3&quot;]/div[@class=&quot;bg-card text-card-foreground flex flex-col gap-6 py-6 shadow-sm group relative overflow-hidden rounded-xl border border-gray-200 transition-all duration-300 hover:-translate-y-1 hover:shadow-lg dark:border-gray-800 dark:bg-gray-900&quot;]/div[@class=&quot;relative h-48 w-full&quot;]/div[@class=&quot;absolute inset-0 bg-gradient-to-t from-black/60 to-transparent&quot;]</value>
+      <webElementGuid>9734e02f-dc1d-4873-9763-dde63f9c1af8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content']/main/div/div/div[3]/div[5]/div/div[2]</value>
+      <webElementGuid>cc65900d-5f11-43ea-b80f-a78f215344a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]</value>
+      <webElementGuid>d1b8b856-af4d-42d4-a978-a7c3a58b4b78</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

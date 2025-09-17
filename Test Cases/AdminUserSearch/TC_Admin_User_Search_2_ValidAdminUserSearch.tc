@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Admin_User_Search_2_ValidAdminUserSearch</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a9438f14-ec5c-4e8b-bf8c-27caa1422cc3</testCaseGuid>
+</TestCaseEntity>
