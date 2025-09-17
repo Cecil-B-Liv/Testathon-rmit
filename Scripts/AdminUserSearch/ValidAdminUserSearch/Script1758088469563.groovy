@@ -17,3 +17,39 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('http://localhost:5173/')
+
+WebUI.click(findTestObject('Object Repository/AdminUserSearch/ValidAdminUserSearch/button_Go to Feedback Page_ring-offset-back_b7d330'))
+
+WebUI.click(findTestObject('Object Repository/AdminUserSearch/ValidAdminUserSearch/button_Contact_inline-flex items-center jus_751527'))
+
+WebUI.setText(findTestObject('Object Repository/AdminUserSearch/ValidAdminUserSearch/input_Email_email'), 'Group2test@gmail.com')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/AdminUserSearch/ValidAdminUserSearch/input_Password_password'), 
+    'cJINjjlHDJSMUa/C+8oeTQ==')
+
+WebUI.click(findTestObject('Object Repository/AdminUserSearch/ValidAdminUserSearch/button_Password_flex w-fit items-center jus_d1da87'))
+
+WebUI.click(findTestObject('Object Repository/AdminUserSearch/ValidAdminUserSearch/a_Dashboard_relative mx-2 flex items-center_5674a0'))
+
+WebUI.click(findTestObject('Object Repository/AdminUserSearch/ValidAdminUserSearch/a_Overview_group flex items-center rounded-_195f39'))
+
+WebUI.click(findTestObject('Object Repository/AdminUserSearch/ValidAdminUserSearch/input_Add User_filetext-foreground placehol_85d76f'))
+
+WebUI.setText(findTestObject('Object Repository/AdminUserSearch/ValidAdminUserSearch/input_Add User_filetext-foreground placehol_85d76f_1'), 
+    'M')
+
+WebUI.setText(findTestObject('Object Repository/AdminUserSearch/ValidAdminUserSearch/input_Sep 17, 2025_filetext-foreground plac_9742c9'), 
+    'Mi')
+
+WebUI.setText(findTestObject('Object Repository/AdminUserSearch/ValidAdminUserSearch/input_Sep 17, 2025_filetext-foreground plac_9742c9_1'), 
+    'Min')
+
+WebUI.setText(findTestObject('Object Repository/AdminUserSearch/ValidAdminUserSearch/input_Sep 17, 2025_filetext-foreground plac_9742c9_2'), 
+    'Minh')
+
+WebUI.verifyElementText(findTestObject('Object Repository/AdminUserSearch/ValidAdminUserSearch/div_Actions_text-sm font-medium text-gray-900'), 
+    'Minh')
+
